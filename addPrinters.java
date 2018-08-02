@@ -28,9 +28,7 @@
 //
 // SUPPORT FOR THIS PROGRAM
 //
-//      This program is distributed "as is" by JAMF Software, Professional Services Team. 
-//      For more information or support for this script, please contact your JAMF Software
-//      Account Manager.
+//      This program is distributed "as is".
 //
 //////////////////////////////////////////////////////////////////////////////////////////
 //
@@ -47,7 +45,7 @@
 //
 //	Version: 1.0
 //
-//	Created by Leslie Helou, Professional Services Engineer, JAMF Software 
+//  Created by Leslie Helou, Professional Services Engineer, JAMF Software 
 //  August 2, 2018
 //
 //////////////////////////////////////////////////////////////////////////////////////////
